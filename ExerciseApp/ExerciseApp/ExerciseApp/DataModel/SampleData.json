@@ -1,0 +1,111 @@
+﻿{"Groups":[
+  {
+    "UniqueId": "Group-1",
+    "Title": "Group Title: 1",
+    "Subtitle": "Group subtitle: 1",
+    "ImagePath": "Assets/DarkGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+      [
+      {
+        "UniqueId": "Group-1-Item-1",
+       "Title": "Psychological illness ",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "A psychologist statistics，Fall due to the influence of climate and other factors，Combined with the“come into my autumn”emotional impact",
+        "Content" : "A psychologist statistics，Fall due to the influence of climate and other factors，Combined with the“come into my autumn”emotional impact，Autumn depression and other mental disease rate significantly increased。 so，Autumn should pay attention to adjust their emotions，Always keep optimistic state of mind，More communication with friends，go for a walk，or to participate in the autumn is also a good choice。Moreover the autumn air dry gas，it's easy to cause “autumn”，things didn't spirit，o the autumn must form the good habit of early to bed and early to rise。 "
+      },
+      {
+        "UniqueId": "Group-1-Item-2",
+        "Title": "Acute gastroenteritis",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Autumn is a variety of fruits of the harvest season, easily cooked disorderly eat。",
+        "Content" : "Autumn is a variety of fruits of the harvest season, easily cooked disorderly eat。And enter the autumn, after the body's digestive function, intestinal disease resistance began to decline, so it is always have the trouble of intestines and stomach disease.Fall, therefore, should pay attention to prevent gastrointestinal disease, eating fruit should pay attention to whether the source of health, refused to cold food cold drinks, cooked to separate.Moreover can also use some pasta, rice and other food for nourishing the stomach。 "
+      },
+      {
+        "UniqueId": "Group-1-Item-3",
+        "Title": "Catch a cold",
+        "Subtitle": "Item Subtitle: 3",
+        "ImagePath": "Assets/LightGray.png",
+        "Description" : "Autumn is the most serious a flu season, hot and cold season is not only difficult to adapt",
+        "Content" : "Autumn is the most serious a flu season, hot and cold season is not only difficult to adapt ，Also it is difficult to adjust the immune system.So the incidence of colds and other respiratory diseases is higher.At ordinary times should pay attention to make the appropriate to add clothes, pay attention to supplement moisture, to go where traffic was much less as far as possible.Further more, take part in some outdoor sports, help improve the body's resistance, far away from the cold。 "
+      },
+      {
+        "UniqueId": "Group-1-Item-4",
+        "Title": "Oral ulcer",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "After the fall a person the most easily lose, and lose our oral ulcer is the most direct performance。",
+        "Content" : "After the fall a person the most easily lose, and lose our oral ulcer is the most direct performance。Of course some of the nose a blaze, sore throat, fever, etc.Autumn high incidence of oral ulcer in addition to because of the climate, and human hormone level changes have a direct relationship.So attention should be paid to much recuperation, autumn complement water more at ordinary times, eat more rich in vitamin C, vitamin B1, vitamin B2, reduce the taste excitant food intake。 "
+      },
+      {
+        "UniqueId": "Group-1-Item-5",
+        "Title": "Skin disease",
+        "Subtitle": "Item Subtitle: 5",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Autumn is also a high incidence of various skin diseases in season, the characterized by itching, redness and swelling, pain and other symptoms。",
+        "Content" : "Autumn is also a high incidence of various skin diseases in season, the characterized by itching, redness and swelling, pain and other symptoms。Usually the part to the thigh, calf medial, joints and the surrounding is also very common.Autumn skin is paroxysmal, duration and severity of the disease is not the same。 Fall prevention of skin diseases should pay attention to the choice of clothing for close-fitting clothes can choose pure cotton, as far as possible at the same time reducing the intake of excitant food, pay more attention to personal hygiene。 "
+      },
+      {
+        "UniqueId": "Group-1-Item-6",
+        "Title": "constipation",
+        "Subtitle": "Item Subtitle: 6",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Defecate dry, discharge pain is one of the most common problems in autumn",
+        "Content" : "Defecate dry, discharge pain is one of the most common problems in autumn，Especially many elderly people because of suddenly and forcibly defecate and cause heart so stop problem.So autumn is keeping in good health care to prevent constipation, must pay attention to the daily intake of more adequate crude fibre, keep moisture, avoid sedentary, keep happy mood, regular bowel movements, so as to get rid of constipation and other issues。 "
+      },
+      {
+        "UniqueId": "Group-1-Item-7",
+        "Title": "Allergic rhinitis",
+        "Subtitle": "Item Subtitle: 7",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Autumn weather is dry, and now the air pollution is very serious",
+        "Content" : "Autumn weather is dry, and now the air pollution is very serious，So all kinds of allergic factors will increase, and stimulates the allergy source to the nasal mucosa, so the incidence of allergic rhinitis is very high.Autumn health, we should start from life details, and pay more attention to regular life habits and avoid bad living habits, exercise more, less meat, eat less excitant food, can has been far away from trouble。"
+      }
+    ]
+  },
+  {
+    "UniqueId": "Group-2",
+    "Title": "Group Title: 2",
+    "Subtitle": "Group subtitle: 2",
+    "ImagePath": "Assets/LightGray.png",
+    "Description" : "Group Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor scelerisque lorem in vehicula. Aliquam tincidunt, lacus ut sagittis tristique, turpis massa volutpat augue, eu rutrum ligula ante a ante",
+    "Items":
+    [
+      {
+        "UniqueId": "Group-2-Item-1",
+        "Title": "To regular the gym",
+        "Subtitle": "Item Subtitle: 1",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Choose professional, experienced coach。",
+        "Content" : "Choose professional, experienced coach。Before in a planned way of practice, must carry on the corresponding physical test and physical test.According to the individual situation coach tailored training program.According to the requirements of the relevant gym, suggest that regular exercise, pursuant to the coach, is a good way to prevent sports injury the most direct。"
+      },
+      {
+        "UniqueId": "Group-2-Item-2",
+        "Title": "Develop a plan of a perfect, regular",
+        "Subtitle": "Item Subtitle: 2",
+        "ImagePath": "Assets/MediumGray.png",
+        "Description" : "Reduced fat, for example: in general, first of all should be arranged 2 times per week strength training instrument, the purpose is to improve the ability of fat of oxygen",
+        "Content" : "Reduced fat, for example: in general, first of all should be arranged 2 times per week strength training instrument, the purpose is to improve the ability of fat of oxygen；The second Arrange every week 2 times larger cardiorespiratory exercise intensity, purpose is to increase health index.More than 30 minutes of exercise, control the heart rate is about 70% - 80% of maximum heart rate, can burn more fat.With maximum heart rate is 220 minus your age.For example, a 20-year-old man's maximum heart rate is 220-20 = 200, when he exercise heart rate per minute, should be in 200 or 140 * 200 * 70% = 80% = 160 or so, so you can burn more fat.Simple cardiopulmonary exercise 2 times a week, of course, if the body fitness class, let you of the fitness process more enjoyable.Finally, Suggestions and a half hours of exercise do you do, you can walk or ride a bike alone。"
+      },
+        {
+            "UniqueId": "Group-2-Item-3",
+            "Title": "About sports before and after eating, depending on individual situation",
+            "Subtitle": "Item Subtitle: 3",
+            "ImagePath": "Assets/LightGray.png",
+            "Description": "Generally speaking, after eating the body to give some time to organize the digestion, unfavorable movement immediately, at least to start in about half an hour。",
+            "Content": "Generally speaking, after eating the body to give some time to organize the digestion, unfavorable movement immediately, at least to start in about half an hour。 After exercise, the body is eager to supplement energy in 20 minutes, at this time is the best time to absorb, if you are a player, in the gym within 20 minutes after eating excess resume;But if you want to lose fat, you must be at the end of the exercise for 30 minutes before eating。"
+        },
+        {
+        "UniqueId": "Group-2-Item-4",
+        "Title": "We strongly call for jump hold, be sure to drink water",
+        "Subtitle": "Item Subtitle: 4",
+        "ImagePath": "Assets/DarkGray.png",
+        "Description" : "Generally more scientific method is in practice after 15 minutes filling water 250 ml, available in the form of urine to test if you adequate water intake of the body。",
+        "Content" : "Generally more scientific method is in practice after 15 minutes filling water 250 ml, available in the form of urine to test if you adequate water intake of the body。If pass urine colorless, that means you are not lack of water.Within an hour of exercise, water is the best filling agent, but more than 1 hours of practice, not just to drink water, at the same time of filling water, even a moderate amount of added some sports drinks.In addition, the water is conducive to sweat and sweat is a good way to lower the body temperature, therefore, we should abandon movement banned the old ideas of water。"
+      }
+    ]
+  }
+]
+}

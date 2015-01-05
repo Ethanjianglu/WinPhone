@@ -1,0 +1,34 @@
+Exercise App
+==========================================================
+Programmer: LU JIANG(Ethan)G00307216
+
+Summary:  This program ,User can choose one of food(Fruit; Rice; Fried Chicken),and how many you eat XXX KG.
+The APP can give a number of you eat how many Calorie.
+And user choose on of Sport(Walk; Run ;Swim).It will give a time of you choose Sport,you must do,How many time you can work out you were eat Calorie.
+
+Also ,it can Search Figure.User choose Female or Male, and input Height and Weight.And give some useful information.
+
+
+============
+
+INPUT:  FoodName: Rice
+        InTake :  1  KG
+        Sports: Run
+        
+OUTPUT: Total Calorie :60 C
+        Sports Time  :  1.5 H
+
+
+============
+INPUT £ºFEMALE
+Height: 160 CM
+Weight: 50  KG
+
+OUTPUT: YOU ARE LEAN
+
+And give some useful information for user.
+
+
+
+===================
+"""
